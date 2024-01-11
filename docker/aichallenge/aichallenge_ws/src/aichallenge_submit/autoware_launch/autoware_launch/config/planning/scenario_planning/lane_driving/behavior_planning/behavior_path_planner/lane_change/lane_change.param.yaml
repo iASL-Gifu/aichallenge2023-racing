@@ -31,4 +31,4 @@
       abort_max_lateral_jerk: 1000.0             # [m/s3]
 
       # debug
-      publish_debug_marker: false
+      publish_debug_marker: true

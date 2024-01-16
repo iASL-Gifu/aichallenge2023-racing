@@ -92,4 +92,4 @@
       use_predicted_path_outside_lanelet: false
       use_all_predicted_path: false
       # debug
-      print_debug_info: false
+      print_debug_info: true

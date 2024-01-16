@@ -3,7 +3,7 @@
     speed_bump:
       slow_start_margin: 1.0
       slow_end_margin: 1.0
-      print_debug_info: false
+      print_debug_info: true
 
       # limits for speed bump height and slow down speed to create a linear equation
       speed_calculation:
